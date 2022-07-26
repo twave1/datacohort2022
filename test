@@ -1,0 +1,8 @@
+testing if this goes through
+[mikrosconfig]
+inputs = [a,b,c]
+rows = 1000
+timeseries = y
+distribution = square
+showplot = y
+sigma = .3
